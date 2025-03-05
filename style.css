@@ -1,0 +1,22 @@
+.titulo {
+    font-size: 34px;
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.lista {
+    color: yellow;
+}
+
+.texto {
+    font-size: 26px;
+    color: orange;
+}
+
+.return {
+    color: red;
+}
+
+.t-carbonara {
+    background-color: red;
+}
