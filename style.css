@@ -4,19 +4,13 @@
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-.lista {
+.lista li {
     color: yellow;
+    padding: 10px;
 }
 
 .texto {
     font-size: 26px;
     color: orange;
-}
-
-.return {
-    color: red;
-}
-
-.t-carbonara {
-    background-color: red;
+    padding: 5px;
 }
